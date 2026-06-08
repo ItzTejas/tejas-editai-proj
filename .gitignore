@@ -1,2 +1,17 @@
 # created by virtualenv automatically
 *
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+ 
+# PyCharm
+.idea/
+ 
+# OS
+.DS_Store
+ 
+# Generated data (keep the figures, ignore the demo CSV)
+gene_data.csv
